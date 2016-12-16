@@ -1,0 +1,32 @@
+body {
+	border: 16px solid #193549;
+	display: flex;
+	min-height: 100vh;
+	align-items: center;
+	justify-content: center;
+}
+
+.box {
+	color: white;
+	padding: 10px;
+	text-align: center;
+	font-size: 60px;
+	text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+.container {
+	background: #84D2D1;
+	border: 9px solid #BE2C23;
+  	display: flex;
+  	width:500px;
+  	height: 500px;
+  	/* flex-direction: column; */
+
+	align-items: flex-end;
+
+	/* align-items: stretch; */
+	/* align-items: flex-end; */
+	/* align-items: center; */
+
+}
+ 
