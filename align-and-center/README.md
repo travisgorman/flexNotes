@@ -13,3 +13,14 @@ The values for `justify-content` are:
 * `center`
 * `space-between`
 * `space-around`
+
+
+## `align-items`
+
+
+
+## `align-content`
+
+
+
+## `align-self`
