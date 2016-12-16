@@ -1,12 +1,13 @@
 
 .container {
 	display: flex;
-	height: 100vh;
+	min-height: 100vh;
 	border: 10px solid goldenrod;
+	flex-direction: column;
 }
 
-.item {
-	/* all items take the same width */
+.box {
+	/* all boxs take the same width */
 	flex: 1;
 }
 
