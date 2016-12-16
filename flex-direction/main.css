@@ -1,13 +1,18 @@
 
 .container {
 	display: flex;
-	min-height: 100vh;
 	border: 10px solid goldenrod;
-	flex-direction: column;
+	min-height: 100vh;
+	flex-wrap: wrap;
+ 	/* flex-direction: column; */
 }
 
 .box {
 	/* all boxs take the same width */
-	flex: 1;
+	/* flex: 1; */
+	/* width: 300px; */
+	/* width: 300px; */
+	width: 33.3333333333%;
+	/* margin: 10px; */
 }
 

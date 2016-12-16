@@ -1,0 +1,19 @@
+body {
+	padding-top: 60px;
+}
+.container {
+	display: flex;
+
+}
+
+.box {
+	flex:1;
+}
+
+.box3 {
+	order: 2;
+}
+
+.box7 {
+	order: 1;
+}

@@ -10,3 +10,19 @@ By default, the `flex-direction` property is set to row, with the main axis movi
 * `row-reverse`
 * `column-reverse`
 
+
+___
+
+## `flex-wrap`
+
+
+```css
+
+.container {
+  flex-wrap: wrap
+}
+
+```
+
+
+___
