@@ -24,3 +24,6 @@ The values for `justify-content` are:
 
 
 ## `align-self`
+
+* `stretch` (default)
+* 
